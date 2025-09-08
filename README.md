@@ -3,7 +3,7 @@
 Material complementario de simulación para el curso de Probabilidad II
 
 ---
-![](https://fhernanb.github.io/Manual-de-R/images/normal_biv_rgl.png)
+![](https://upload.wikimedia.org/wikipedia/commons/f/f1/Monkey-typing.jpg)
 ---
 
 ## 📂 Índice
