@@ -8,47 +8,36 @@ Material complementario de simulación para el curso de Probabilidad II
 
 ## 📂 Índice
 
-### 1. Espacios de Probabilidad
-#### 1.1 EP1_ExperimentosAleatorios
-* Elegir *aleatoriamente* de una muestra de 2 elementos (un volado)
-* Elegir *aleatoriamente* de una muestra de n elementos
-* Un Experimento Aleatorio
-#### 1.2 EP2_RuinaDelJugador
-* La Ruina del Jugador dependiendo del capital inicial
-#### 1.3 EP3_EnfoqueFrecuentista
-* Probabilidad Frecuentista
-* Ejemplo de Aplicación
-#### 1.4 EP4_ProbabildadCondicional
-* Cálculo de la Probabilidad Condicional
-* Problema de Monty Hall
-* Ejercicios
-
-### 2. Variables Aleatorias
-#### 2.1 VA1_NúmerosPseudoAleatorios
-* Método del Cuadrado
-* Método de Congruencia Lineal
-* Método de MonteCarlo para Cálculo de Integrales
-#### 2.2 VA2_SimulacióndeVariablesAleatoriasDiscretas
-* Simulación de v.a. Bernoulli
-* Método de la Función Inversa para v.a. discretas finitas
-* Recursión para simular v.a. Poisson y Binomial
-#### 2.3 VA3_SimulacióndeVariablesAleatoriasContinuas
-* Método Aceptación - Rechazo
+### 1. Simulación de Vectores Aleatorias
+#### 1.1 VA1_SimulacióndeVariablesAleatorias
+* Números pseudoaleatorios
+* Método de Aceptación Rechazo
 * Método de la Función Inversa
-* Histogramas y Visualización
+#### 1.2 VA2_SimulacióndeVectoresAleatorios
+* Con densidades marginal conocidas e independencia
+* Con densidades condicionales conocidas
+#### 1.3 VA3_VisualizacióndeVectoresAleatorios
+* Visualización de muestras aleatorias de vectores aleatorios
+* Visualización de la suma de variables aleatorias
+
+### 2. Momentos y Esperanza Condicional
+#### 2.1 EC1_GráficosdeDispersión
+* Visualización de dos muestras aleatorias
+* Estimación de Varianza
+* Estimación del Coeficiente de Correlación
   
-### 3. Esperanza y Momentos
-#### 3.1 EM1_Esperanza
-* Interpretación (con histogramas) de la esperanza y varianza de una v.a.
-* Cálculo numérico de los momentos de una v.a.
-* Función Generadora de Momentos
-* Método de MonteCarlo
+### 3. Funciones de Vectores Aleatorios
+#### 3.1 FVA1_NormalMultivariada
+* Simulación de la Normal Bivariada
+* Simulación de la Normal Multivariada
   
-### 4. Teoremas Límite
-#### 4.1 TL1_LeyesDeLosGrandesNúmeros
-* Simulación de la aproximación Poisson a Binomial
-* Ley Fuerte de los Grandes Números y la Probabilidad Frecuentista
-#### 4.2 TL2_TeoremaCentralDelLímite
+### 4. Sucesiones y Convergencia de Variables Aleatorias
+#### 4.1 SC1_LeyesDeLosGrandesNúmeros
+* Visualización de la convergencia de la ley débil de los grandes números
+* Visualización de la convergencia de la ley fuerte de los grandes números
+#### 4.2 SC2_LemadeBorelCantelli
+* Eventos que ocurren con probabilidad 1
+#### 4.2 SC3_TeoremaCentralDelLímite
 * Visualización de la Convergencia
 * Ejemplos
 
