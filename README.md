@@ -3,7 +3,7 @@
 Material complementario de simulación para el curso de Probabilidad II
 
 ---
-![](https://media.giphy.com/media/3tK5E7XrQvelZvSJM9/giphy.gif)
+![](https://fhernanb.github.io/Manual-de-R/images/normal_biv_rgl.png)
 ---
 
 ## 📂 Índice
