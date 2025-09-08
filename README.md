@@ -36,7 +36,8 @@ Material complementario de simulación para el curso de Probabilidad II
 * Visualización de la convergencia de la ley débil de los grandes números
 * Visualización de la convergencia de la ley fuerte de los grandes números
 #### 4.2 SC2_LemadeBorelCantelli
-* Eventos que ocurren con probabilidad 1
+* Simulación de eventos que ocurren con probabilidad 1
+* Problemas computacionales de eventos que tardan en ocurrir
 #### 4.2 SC3_TeoremaCentralDelLímite
 * Visualización de la Convergencia
 * Ejemplos
