@@ -9,19 +9,19 @@ Material complementario de simulación para el curso de Probabilidad II
 ## 📂 Índice
 
 ### 1. Simulación de Vectores Aleatorias
-#### 1.1 VA1_SimulacióndeVariablesAleatorias
+#### 1.1 VA1_SimulaciónDeVariablesAleatorias
 * Números pseudoaleatorios
 * Método de Aceptación Rechazo
 * Método de la Función Inversa
-#### 1.2 VA2_SimulacióndeVectoresAleatorios
+#### 1.2 VA2_SimulaciónDeVectoresAleatorios
 * Con densidades marginal conocidas e independencia
 * Con densidades condicionales conocidas
-#### 1.3 VA3_VisualizacióndeVectoresAleatorios
+#### 1.3 VA3_VisualizaciónDeVectoresAleatorios
 * Visualización de muestras aleatorias de vectores aleatorios
 * Visualización de la suma de variables aleatorias
 
 ### 2. Momentos y Esperanza Condicional
-#### 2.1 EC1_GráficosdeDispersión
+#### 2.1 EC1_GráficosDeDispersión
 * Visualización de dos muestras aleatorias
 * Estimación de Varianza
 * Estimación del Coeficiente de Correlación
@@ -35,7 +35,7 @@ Material complementario de simulación para el curso de Probabilidad II
 #### 4.1 SC1_LeyesDeLosGrandesNúmeros
 * Visualización de la convergencia de la ley débil de los grandes números
 * Visualización de la convergencia de la ley fuerte de los grandes números
-#### 4.2 SC2_LemadeBorelCantelli
+#### 4.2 SC2_LemaDeBorelCantelli
 * Simulación de eventos que ocurren con probabilidad 1
 * Problemas computacionales de eventos que tardan en ocurrir
 #### 4.2 SC3_TeoremaCentralDelLímite
