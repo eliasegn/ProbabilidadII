@@ -13,12 +13,13 @@ Material complementario de simulación para el curso de Probabilidad II
 * Números pseudoaleatorios
 * Método de Aceptación Rechazo
 * Método de la Función Inversa
-#### 1.2 VA2_SimulaciónDeVectoresAleatorios
-* Con densidades marginal conocidas e independencia
-* Con densidades condicionales conocidas
-#### 1.3 VA3_VisualizaciónDeVectoresAleatorios
-* Visualización de muestras aleatorias de vectores aleatorios
-* Visualización de la suma de variables aleatorias
+#### 1.2 VA2_VisualizacióndeVectoresAleatorios
+* Simulación de vectores aleatorios en el plano
+* Simulación de vectores aleatorios en el espacio
+#### 1.2 VA3_MétododeMonteCarlo
+* Método de Monte Carlo para aproximar áreas
+* Aproximación de Integrales
+#### 
 
 ### 2. Momentos y Esperanza Condicional
 #### 2.1 EC1_GráficosDeDispersión
