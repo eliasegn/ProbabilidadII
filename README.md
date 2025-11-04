@@ -9,14 +9,10 @@ Material complementario de simulación para el curso de Probabilidad II
 ## 📂 Índice
 
 ### 1. Simulación de Vectores Aleatorias
-#### 1.1 VA1_SimulaciónDeVariablesAleatorias
-* Números pseudoaleatorios
-* Método de Aceptación Rechazo
-* Método de la Función Inversa
-#### 1.2 VA2_VisualizacióndeVectoresAleatorios
+#### 1.1 VA1_SimulaciónDeVectoresAleatorias
 * Simulación de vectores aleatorios en el plano
 * Simulación de vectores aleatorios en el espacio
-#### 1.2 VA3_MétododeMonteCarlo
+#### 1.2 VA2_MétododeMonteCarlo
 * Método de Monte Carlo para aproximar áreas
 * Aproximación de Integrales
 #### 
