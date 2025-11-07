@@ -9,7 +9,7 @@ Material complementario de simulación para el curso de Probabilidad II
 ## 📂 Índice
 
 ### 1. Simulación de Vectores Aleatorias
-#### 1.1 VA1_SimulaciónDeVectoresAleatorias
+#### 1.1 VA1_SimulaciónDeVectoresAleatorios
 * Simulación de vectores aleatorios en el plano
 * Simulación de vectores aleatorios en el espacio
 #### 1.2 VA2_MétododeMonteCarlo
