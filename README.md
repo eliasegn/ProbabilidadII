@@ -31,15 +31,9 @@ Material complementario de simulación para el curso de Probabilidad II
 * Simulación de la Normal Multivariada
   
 ### 4. Sucesiones y Convergencia de Variables Aleatorias
-#### 4.1 SC1_LeyesDeLosGrandesNúmeros
-* Visualización de la convergencia de la ley débil de los grandes números
-* Visualización de la convergencia de la ley fuerte de los grandes números
-#### 4.2 SC2_LemaDeBorelCantelli
-* Simulación de eventos que ocurren con probabilidad 1
-* Problemas computacionales de eventos que tardan en ocurrir
-#### 4.2 SC3_TeoremaCentralDelLímite
-* Visualización de la Convergencia
-* Ejemplos
+#### 4.1 SC1_ConvergenciaDeVariablesAleatorias
+* Visualización de la convergencia en distribución
+* Visualización de la convergencia casi segura
 
 ## 💻 Recursos para aprender Python
 
