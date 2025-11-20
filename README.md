@@ -21,8 +21,8 @@ Material complementario de simulación para el curso de Probabilidad II
 
 ### 2. Momentos y Esperanza Condicional
 #### 2.1 EC1_GráficosDeDispersión
-* Visualización de muestras y su relación con su covarianza
 * Visualización de muestras con coeficiente de correlación cercano a -1, 0 y 1
+* Visualización de muestras y su relación con su covarianza
   
 ### 3. Funciones de Vectores Aleatorios
 #### 3.1 FVA1_NormalMultivariada
