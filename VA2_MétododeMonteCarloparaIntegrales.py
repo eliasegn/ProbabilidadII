@@ -214,3 +214,4 @@ def f1(x):
 clase1 = MonteCarlo(f1, 1, math.exp(1), 1)
 clase1.graficar()
 
+
