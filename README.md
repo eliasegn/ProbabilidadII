@@ -28,11 +28,6 @@ Material complementario de simulación para el curso de Probabilidad II
 #### 3.1 FVA1_NormalMultivariada
 * Simulación de la Normal Bivariada
 * Simulación de la Normal Multivariada
-  
-### 4. Sucesiones y Convergencia de Variables Aleatorias
-#### 4.1 SC1_ConvergenciaDeVariablesAleatorias
-* Visualización de la convergencia en distribución
-* Visualización de la convergencia casi segura
 
 ## 💻 Recursos para aprender Python
 
