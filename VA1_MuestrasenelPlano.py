@@ -72,7 +72,7 @@ graficar_vector(1000, np.random.exponential, np.random.uniform, args1=(3,), args
 graficar_vector(1000, np.random.poisson, np.random.geometric, args1=(3,), args2=(0.01,)) # Si la distribución tiene un solo parámetro se pone (lambda,
 graficar_vector(1000, np.random.exponential, np.random.geometric, args1=(0.5,), args2=(0.1,))
 
-############################
+################################################################################
 # Con entradas no independientes
 
 # Ambas muestras
@@ -108,7 +108,7 @@ muestra4 = np.random.exponential(0.9, 1000)
 muestra5 = np.cumsum(muestra4)
 dos_muestras(muestra5, muestra4)
 
-#############################
+################################################################################
 # Vectores en el espacio
 
 # Función para graficar una muestra de vectores aleatorios en R3
