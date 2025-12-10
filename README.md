@@ -2,10 +2,6 @@
 
 Material complementario de simulación para el curso de Probabilidad II
 
----
-![](https://upload.wikimedia.org/wikipedia/commons/f/f1/Monkey-typing.jpg)
----
-
 ## 📂 Índice
 
 ### 1. Simulación de Vectores Aleatorias
