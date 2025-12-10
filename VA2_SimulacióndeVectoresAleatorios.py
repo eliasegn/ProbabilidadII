@@ -162,4 +162,5 @@ def f5(x, y):
 
 sampler5 = Metropolis(f5, paso=0.5, x0=[1,1])
 print(sampler5.sample(1))
+
 graficar(f5, 2000, paso = 1)
