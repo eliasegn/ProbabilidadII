@@ -4,7 +4,7 @@ Material complementario de simulación para el curso de Probabilidad II
 
 ---
 <img width="621" height="393" alt="image" src="https://github.com/user-attachments/assets/947309ab-acf7-40f5-9e39-20061faf4291" />
--
+
 
 ## 📂 Índice
 
